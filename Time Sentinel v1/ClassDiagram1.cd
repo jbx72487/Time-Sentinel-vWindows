@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Enum Name="Time_Sentinel_v1.RestrictionLevel" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Helpers.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Time_Sentinel_v1.TimeLimit" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Helpers.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Time_Sentinel_v1.UnblockEvent" Collapsed="true">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAEAAAAAAAAAAAACAAAQAAAAAAA=</HashCode>
+      <FileName>Helpers.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Time_Sentinel_v1.HackerTaskMgr" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Helpers.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Time_Sentinel_v1.EndReason" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

@@ -1,0 +1,20 @@
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\bin\Release\Time Sentinel v1.exe
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\bin\Release\Time Sentinel v1.pdb
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\obj\Release\Time_Sentinel_v1.AboutDialog.resources
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\obj\Release\Time_Sentinel_v1.EndManuallyTerminatedDialog.resources
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\obj\Release\Time_Sentinel_v1.ErrorPswdMismatch.resources
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\obj\Release\Time_Sentinel_v1.ErrorZeroTime.resources
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\obj\Release\Time_Sentinel_v1.HackerSettingsDialog.resources
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\obj\Release\Time_Sentinel_v1.Properties.Resources.resources
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\obj\Release\Time_Sentinel_v1.EndTimeElapsedDialog.resources
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\obj\Release\Time_Sentinel_v1.UnblockBtnDialog.resources
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\obj\Release\Time_Sentinel_v1.UnblockMathDialog.resources
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\obj\Release\Time_Sentinel_v1.UnblockPswdDialog.resources
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\obj\Release\Time_Sentinel_v1.MainSettingsDialog.resources
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\obj\Release\Time_Sentinel_v1.EndMaxTimeReachedDialog.resources
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\obj\Release\Time_Sentinel_v1.ActiveTimer.resources
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\obj\Release\Time_Sentinel_v1.ErrorZeroApplications.resources
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\obj\Release\Time Sentinel v1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\obj\Release\Time Sentinel v1.exe
+C:\Documents and Settings\Joy\My Documents\Visual Studio 2008\Projects\Final Project\Time Sentinel v1\obj\Release\Time Sentinel v1.pdb

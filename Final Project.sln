@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time Sentinel v1", "Time Sentinel v1\Time Sentinel v1.csproj", "{3467BA8D-15D9-4BA9-BD15-C113644722DD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TimeSentinelv1_Setup", "TimeSentinelv1_Setup\TimeSentinelv1_Setup.vdproj", "{07B40845-2772-42D4-886D-10FF209EF4FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3467BA8D-15D9-4BA9-BD15-C113644722DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3467BA8D-15D9-4BA9-BD15-C113644722DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3467BA8D-15D9-4BA9-BD15-C113644722DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3467BA8D-15D9-4BA9-BD15-C113644722DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B40845-2772-42D4-886D-10FF209EF4FF}.Debug|Any CPU.ActiveCfg = Debug
+		{07B40845-2772-42D4-886D-10FF209EF4FF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
